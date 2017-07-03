@@ -3,3 +3,5 @@ This is a line i edit in master branch.
 I am editing the 2nd line in master branch.
 
 I am editing this file on DEV branch now !!
+
+Editing in master
